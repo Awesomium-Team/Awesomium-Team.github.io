@@ -20,7 +20,6 @@ const staticAssets = [
 self.addEventListener('install', async event => {
     const cache = await caches.open(staticCacheName);
     await cache.addAll(staticAssets);
-    console.log('Service worker has been installed');
 });
 
 self.addEventListener('activate', async event => {
@@ -31,11 +30,9 @@ self.addEventListener('activate', async event => {
         }
     });
     await Promise.all(checkKeys);
-    console.log('Service worker has been activated');
 });
 
 self.addEventListener('fetch', event => {
-    console.log(`Trying to fetch ${event.request.url}`);
     event.respondWith(checkCache(event.request));
 });
 
@@ -43,8 +40,6 @@ async function checkCache(req) {
     const cachedResponse = await caches.match(req);
     return cachedResponse || checkOnline(req);
 }
-
-
 async function checkOnline(req) {
     const cache = await caches.open(dynamicCacheName);
     try {
