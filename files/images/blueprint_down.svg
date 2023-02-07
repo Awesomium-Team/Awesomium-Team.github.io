@@ -1,0 +1,25 @@
+<svg width="1920" height="2017" viewBox="0 0 1920 2017" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M2578.17 161.376L3150.93 498.369L1469.51 1330.04L1223 831.676L2578.17 161.376Z" fill="#293163"/>
+<path d="M2578.17 161.376L3150.93 498.369L1469.51 1330.04L1223 831.676L2578.17 161.376Z" fill="url(#pattern0)" fill-opacity="0.05"/>
+<path d="M2578.17 161.376L3150.93 498.369L1469.51 1330.04L1223 831.676L2578.17 161.376Z" fill="url(#paint0_radial_376_853)"/>
+<path d="M0 903.965L1920 636V2017H0V903.965Z" fill="#293163"/>
+<path d="M0 903.965L1920 636V2017H0V903.965Z" fill="url(#pattern1)" fill-opacity="0.07"/>
+<path d="M0 903.965L1920 636V2017H0V903.965Z" fill="url(#paint1_radial_376_853)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.359712" height="0.106617">
+<use xlink:href="#image0_376_853" transform="scale(0.00179856 0.000533086)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="0.104167" height="0.144823">
+<use xlink:href="#image0_376_853" transform="scale(0.000520833 0.000724113)"/>
+</pattern>
+<radialGradient id="paint0_radial_376_853" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2186.97 665.022) rotate(171.951) scale(650.328 753.477)">
+<stop stop-color="#293163" stop-opacity="0"/>
+<stop offset="1" stop-color="#293163"/>
+</radialGradient>
+<radialGradient id="paint1_radial_376_853" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 1326.5) rotate(149.288) scale(942.137 1688.25)">
+<stop stop-color="#293163" stop-opacity="0"/>
+<stop offset="1" stop-color="#293163"/>
+</radialGradient>
+<image id="image0_376_853" width="200" height="200" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJySURBVHgB7dsxboRAEADBPT5u+1WIz2GLB7h1wTjxVkmIbLLWBDBrvem6ru/nWUPO8/x8njXEPPP+Yt6xgF8JBIJAIAgEgkAgCASCQCAIBIJAILwmv47Df2ODwAT/Ypm34zwbBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAgCATC690rreM4Pp73fd9fCzZhg8AEN+nm7TjPBoEgEAgCgSAQCAKBIBAIAoEgEAgCgSAQCAKBIBAIAoEgEAgCgSAQCAKB4CYdgg0CE9ykm7fjPBsEgkAgCASCQCAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAgCASCQCAIBIKbdAg2CExwk27ejvNsEAgCgSAQCAKBIBAIAoEgEAgCgSAQCAKBIBAIAoEgEAgCgSAQCAKBIBAIbtIh2CAwwU26eTvOs0EgCASCQCAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAgCASCQCAIBIJAILhJh2CDwAQ36ebtOM8GgSAQCAKBIBAIAoEgEAgCgSAQCAKBIBAIAoEgEAgCgSAQCAKBIBAIAoHgJh2CDQIT3KSbt+M8GwSCQCAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgpt0CDYITHCTbt6O82wQCAKBIBAIAoEgEAgCgSAQCAKBIBAIAoEgEAgCgSAQCAKBIBAIAoEgEAhu0iHYIDDBTbp5O86zQSAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAgCASCQCAIBIJAIAgEgkAguEmHYIPABDfp5u04zwaBIBAIAoEgEAgCgSAQCAKB8AOEVZHAHZWxCwAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
